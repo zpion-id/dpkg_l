@@ -451,7 +451,7 @@ ii  initramfs-tools-core                       0.136ubuntu6                     
 ii  inputattach                                1:1.7.0-1                           amd64        utility to connect serial-attached peripherals to the input subsystem
 ii  install-info                               6.7.0.dfsg.2-5                      amd64        Manage installed documentation in info format
 ii  intel-media-va-driver:amd64                20.1.1+dfsg1-1                      amd64        VAAPI driver for the Intel GEN8+ Graphics family
-ii  intel-microcode                            3.20200609.0ubuntu0.20.04.0         amd64        Processor microcode firmware for Intel CPUs
+ii  intel-microcode                            3.20200609.0ubuntu0.20.04.2         amd64        Processor microcode firmware for Intel CPUs
 ii  ippusbxd                                   1.34-2ubuntu1                       amd64        Daemon for IPP USB printer support
 ii  iproute2                                   5.5.0-1ubuntu1                      amd64        networking and traffic control tools
 ii  iptables                                   1.8.4-3ubuntu2                      amd64        administration tools for packet filtering and NAT
@@ -1238,7 +1238,7 @@ ii  libspectre1:amd64                          0.2.8-2                          
 ii  libspeechd2:amd64                          0.9.1-4                             amd64        Speech Dispatcher: Shared libraries
 ii  libspeex1:amd64                            1.2~rc1.2-1.1ubuntu1                amd64        The Speex codec runtime library
 ii  libspeexdsp1:amd64                         1.2~rc1.2-1.1ubuntu1                amd64        The Speex extended runtime library
-ii  libsqlite3-0:amd64                         3.31.1-4                            amd64        SQLite 3 shared library
+ii  libsqlite3-0:amd64                         3.31.1-4ubuntu0.1                   amd64        SQLite 3 shared library
 ii  libsratom-0-0:amd64                        0.6.4-1                             amd64        library for serialising LV2 atoms to/from Turtle
 ii  libss2:amd64                               1.45.5-2ubuntu1                     amd64        command-line interface parsing library
 ii  libssh-4:amd64                             0.9.3-2ubuntu2                      amd64        tiny C SSH library (OpenSSL flavor)
@@ -1769,6 +1769,7 @@ ii  ucf                                        3.0038+nmu1                      
 ii  udev                                       245.4-4ubuntu3.1                    amd64        /dev/ and hotplug management daemon
 ii  udisks2                                    2.8.4-1ubuntu1                      amd64        D-Bus service to access and manipulate storage devices
 ii  ufw                                        0.36-6                              all          program for managing a Netfilter firewall
+ii  uget                                       2.2.2-1                             amd64        easy-to-use download manager written in GTK+
 ii  unattended-upgrades                        2.3                                 all          automatic installation of security upgrades
 ii  uno-libs-private                           1:6.4.2-0ubuntu3                    amd64        LibreOffice UNO runtime environment -- private libraries used by public ones
 ii  unzip                                      6.0-25ubuntu1                       amd64        De-archiver for .zip files
