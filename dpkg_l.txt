@@ -1,3 +1,6 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
 ||/ Name                                       Version                             Architecture Description
 +++-==========================================-===================================-============-======================================================================================================
 ii  accountsservice                            0.6.55-0ubuntu11                    amd64        query and manipulate user account information
@@ -442,6 +445,7 @@ ii  ibus-table                                 1.9.25-1                         
 ii  ibverbs-providers:amd64                    28.0-1ubuntu1                       amd64        User space provider drivers for libibverbs
 ii  iio-sensor-proxy                           2.8-1                               amd64        IIO sensors to D-Bus proxy
 ii  im-config                                  0.44-1ubuntu1                       all          Input method configuration framework
+ii  indicator-multiload                        0.4-0ubuntu5                        amd64        Graphical system load indicator for CPU, ram, etc.
 ii  info                                       6.7.0.dfsg.2-5                      amd64        Standalone GNU Info documentation browser
 ii  init                                       1.57                                amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                        1.57                                all          helper tools for all init systems
