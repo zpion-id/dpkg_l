@@ -327,6 +327,7 @@ ii  gir1.2-webkit2-4.0:amd64                   2.28.2-0ubuntu0.20.04.1          
 ii  gir1.2-wnck-3.0:amd64                      3.36.0-1                            amd64        GObject introspection data for the WNCK library
 ii  git                                        1:2.27.0-1~ppa0~ubuntu20.04.1       amd64        fast, scalable, distributed revision control system
 ii  git-man                                    1:2.27.0-1~ppa0~ubuntu20.04.1       all          fast, scalable, distributed revision control system (manual pages)
+ii  gitg                                       3.32.1-1                            amd64        git repository viewer
 ii  gjs                                        1.64.3-1~ubuntu20.04.1              amd64        Mozilla-based javascript bindings for the GNOME platform
 ii  gkbd-capplet                               3.26.1-1                            amd64        GNOME control center tools for libgnomekbd
 ii  glib-networking:amd64                      2.64.2-1ubuntu0.1                   amd64        network-related giomodules for GLib
@@ -788,6 +789,8 @@ ii  libgfortran-9-dev:amd64                    9.3.0-10ubuntu2                  
 ii  libgfortran5:amd64                         10-20200411-0ubuntu1                amd64        Runtime library for GNU Fortran applications
 ii  libgif7:amd64                              5.1.9-1                             amd64        library for GIF images (library)
 ii  libgirepository-1.0-1:amd64                1.64.1-1~ubuntu20.04.1              amd64        Library for handling GObject introspection data (runtime library)
+ii  libgit2-28:amd64                           0.28.4+dfsg.1-2                     amd64        low-level Git library
+ii  libgit2-glib-1.0-0:amd64                   0.28.0.1-2                          amd64        glib wrapper library around the libgit2 git access library
 ii  libgjs0g:amd64                             1.64.3-1~ubuntu20.04.1              amd64        Mozilla-based javascript bindings for the GNOME platform
 ii  libgl1:amd64                               1.3.1-1                             amd64        Vendor neutral GL dispatch library -- legacy GL support
 ii  libgl1-mesa-dri:amd64                      20.0.4-2ubuntu1                     amd64        free implementation of the OpenGL API -- DRI modules
@@ -864,6 +867,7 @@ ii  libgtksourceview-3.0-1:amd64               3.24.11-2                        
 ii  libgtksourceview-3.0-common                3.24.11-2                           all          common files for the GTK+ syntax highlighting widget
 ii  libgtksourceview-4-0:amd64                 4.6.0-1                             amd64        shared libraries for the GTK+ syntax highlighting widget
 ii  libgtksourceview-4-common                  4.6.0-1                             all          common files for the GTK+ syntax highlighting widget
+ii  libgtkspell3-3-0:amd64                     3.0.10-1                            amd64        spell-checking addon for GTK+'s TextView widget
 ii  libgtop-2.0-11:amd64                       2.40.0-2                            amd64        gtop system monitoring library (shared)
 ii  libgtop2-common                            2.40.0-2                            all          gtop system monitoring library (common)
 ii  libgudev-1.0-0:amd64                       1:233-1                             amd64        GObject-based wrapper library for libudev
@@ -895,6 +899,7 @@ ii  libhttp-daemon-perl                        6.06-1                           
 ii  libhttp-date-perl                          6.05-1                              all          module of date conversion routines
 ii  libhttp-message-perl                       6.22-1                              all          perl interface to HTTP style messages
 ii  libhttp-negotiate-perl                     6.01-1                              all          implementation of content negotiation
+ii  libhttp-parser2.9:amd64                    2.9.2-2                             amd64        parser for HTTP messages written in C
 ii  libhunspell-1.7-0:amd64                    1.7.0-2build2                       amd64        spell checker and morphological analyzer (shared library)
 ii  libhwloc-dev:amd64                         2.1.0+dfsg-4                        amd64        Hierarchical view of the machine - static libs and headers
 ii  libhwloc-plugins:amd64                     2.1.0+dfsg-4                        amd64        Hierarchical view of the machine - plugins
@@ -992,6 +997,9 @@ ii  libmagic1:amd64                            1:5.38-4                         
 ii  libmailtools-perl                          2.21-1                              all          modules to manipulate email in perl programs
 ii  libmatroska6v5:amd64                       1.5.2-3build1                       amd64        extensible open standard audio/video container format (shared library)
 ii  libmaxminddb0:amd64                        1.4.2-0ubuntu1                      amd64        IP geolocation database library
+ii  libmbedcrypto3:amd64                       2.16.4-1ubuntu2                     amd64        lightweight crypto and SSL/TLS library - crypto library
+ii  libmbedtls12:amd64                         2.16.4-1ubuntu2                     amd64        lightweight crypto and SSL/TLS library - tls library
+ii  libmbedx509-0:amd64                        2.16.4-1ubuntu2                     amd64        lightweight crypto and SSL/TLS library - x509 certificate library
 ii  libmbim-glib4:amd64                        1.22.0-2                            amd64        Support library to use the MBIM protocol
 ii  libmbim-proxy                              1.22.0-2                            amd64        Proxy to communicate with MBIM ports
 ii  libmediaart-2.0-0:amd64                    1.9.4-2                             amd64        media art extraction and cache management library
